@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 2415305147
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scenesone/load.ly
+      Dependencies: {}
+    Info_1:
+      Name: scenesone.ly
+      Dependencies: {}
+    Info_2:
+      Name: scenestwo/new folder.ly
+      Dependencies: {}

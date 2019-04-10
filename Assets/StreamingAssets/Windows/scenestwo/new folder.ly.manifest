@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2877111651
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ad445bdb8251093610d1f37dad5d5a22
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 73d501c0d19b494322c55b66f661cd01
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Scenes/ScenesTwo/New Folder/Cube_2.prefab
+Dependencies: []
